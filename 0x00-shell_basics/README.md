@@ -1,1 +1,1 @@
-scripts that list all files
+scripts tha list all files
